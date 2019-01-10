@@ -1,2 +1,4 @@
 DATA/*
 *.log
+.ipynb_checkpoints/
+IMAGENS/eventos/*
